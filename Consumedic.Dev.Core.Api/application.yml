@@ -1,2 +1,2 @@
 ConectionString:
- CoreConection:server=localhost, 14331;database=Consumedic.Core;user id=sa;password=encrConsumedic0311;
+ CoreConection: server=localhost, 14331;database=Consumedic.Core;user id=sa;password=encrConsumedic0311
